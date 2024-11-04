@@ -1,1 +1,1 @@
-# Malicious-Comment-Classification
+# 악성댓글분류및관리-전통적머신러닝과딥러닝모델비교분석
